@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-################# Creates a dots on  x y area ###############
+################# WYKRES Z DWIEMA KROPKAMI ###############
 # plt.plot([5],[7],'ro')
 # plt.plot([4],[12],'b^')
 
@@ -10,7 +10,7 @@ import numpy as np
 # plt.yticks(np.arange(0, 10+1, 1))
 
 
-################ creates lines on x y area with dots #########
+################ WYKRES Z LINIĄ #########
 
 # x = [1,2,3,4,5,6,7,8,9,10,11,12]
 
@@ -29,7 +29,7 @@ import numpy as np
 # plt.legend(['S1' , 'S2', 'S3'], loc='best', fontsize='15')
 
 
-########### Creates line space parabole ############
+########### WYKRES Z PARABOLĄ ############
 # x = np.linspace(-20, 20, 1000)
 # y1 = x - 2
 # y2 = x ** 2 - 4
@@ -49,7 +49,7 @@ import numpy as np
 
 # plt.title('Wykres funkcji liniowej i kwadratowej')
 
-########### creates 2, x y areas and columns ########
+########### WYKRES PODWOJNY A W NIM RWNIEZ WYKRES SLUPKOWY  ########
 
 # x = np.linspace(-10, 10, 1000)
 
@@ -71,7 +71,7 @@ import numpy as np
 # plt.subplot(211),(222), (223), (224)
 # """
 
-############### wykres kolowy #############
+############### WYKRES KOŁOWY #############
 
 
 
